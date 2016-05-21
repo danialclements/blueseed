@@ -1,0 +1,2 @@
+# blueseed
+### a Sails application
